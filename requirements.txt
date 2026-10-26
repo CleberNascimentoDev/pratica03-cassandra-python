@@ -1,0 +1,3 @@
+# Terminal, janela Tkinter e modo demo: biblioteca padrão do Python.
+# No Windows, incluir Tcl/Tk na instalação do Python para usar --gui.
+# Para acessar Cassandra real, instale requirements-cassandra.txt.
